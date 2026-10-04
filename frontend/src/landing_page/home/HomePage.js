@@ -14,8 +14,8 @@ function HomePage() {
         <>
             <Navbar />
             <Hero />
-            <Awards />
             <Stats />
+            <Awards />
             <Pricing />
             <Education />
             <OpenAccount />

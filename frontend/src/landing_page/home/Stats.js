@@ -2,8 +2,8 @@ import React from 'react';
 
 function Stats() {
     return ( 
-        <div className='container p-5'>
-            <div className='row p-5'>
+        <div className='container p-5 '>
+            <div className='row p-5'> 
                 <div className='col-6 p-5' style={{color:"#424242"}}>
                     <h2 className='mb-5 '>Trust with confidence</h2>
 
@@ -23,11 +23,11 @@ function Stats() {
                 <div className='col-6 ' style={{paddingTop:"85px"}}>
                     <img src='media/ecosystem.png' style={{width:"580px",height:"570px"}}/>
                     <div className='text-center'>
-                        <a href=''className='mx-5'>Explore our products
-                            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <a href=''className='mx-5'style={{textDecoration:"none"}}>Explore our products
+                            <i class="fa fa-long-arrow-right" aria-hidden="true" style={{padding:"5px"}}></i>
                         </a>
-                        <a href=''>Try Kite demo
-                            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        <a href='' style={{textDecoration:"none"}}>Try Kite demo
+                            <i class="fa fa-long-arrow-right" aria-hidden="true" style={{padding:"5px"}}></i>
                         </a>
                     </div>
                 </div>
