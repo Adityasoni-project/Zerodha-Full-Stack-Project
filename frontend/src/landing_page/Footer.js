@@ -7,8 +7,10 @@ function Footer() {
                 <div className='col'>
                     <img src='media/logo.svg' style={{width:"150px",height:"22px", marginBottom:"24px",marginTop:"5px"}} />
                     <p style={{color:"#424242",fontSize:"12px",lineHeight:"24px"}}>&copy; 2010 - 2026, Zerodha Broking Ltd. All rights reserved.</p>
+
                     <a href=''><img src='media/googlePlayBadge.svg ' style={{width:"80px",height:"30px",borderRadius:"7px",marginRight:"15px",marginTop:"20px"}} /></a>
                     <a href=''><img src='media/appstoreBadge.svg ' style={{width:"80px",height:"30px",marginTop:"20px"}} /></a>
+                    
                 </div>
                 <div className='col'>
                     <h4 style={{color:"#424242",marginBottom:"20px"}}>Account</h4>
