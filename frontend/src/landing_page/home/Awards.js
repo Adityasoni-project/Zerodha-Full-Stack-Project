@@ -8,7 +8,7 @@ function Awards() {
                     <img src='media/largestBroker.svg' />
                 </div>
                 <div className='col-6 p-5 mt-5'>
-                    <h1 style={{color:"#424242"}}>Largest stock broker in India</h1>
+                    <h3 style={{color:"#424242",marginBottom:"30px"}}>Largest stock broker in India</h3>
                     <p className='mb-5 'style={{color:"#424242"}}>2+ million zerodha clints contribute to over 15% of all retail order volumes in india daily by trading and investing in:</p>
                     <div className='row'>
                         <div className='col-6'>
