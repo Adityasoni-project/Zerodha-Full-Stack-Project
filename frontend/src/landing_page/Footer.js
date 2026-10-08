@@ -2,7 +2,8 @@ import React from 'react';
 
 function Footer() {
     return ( 
-        <div className='container px-5 mt-5'>
+        <div className='border-top'>
+        <div className='container px-5 '>
             <div className='row p-5'>
                 <div className='col'>
                     <img src='media/logo.svg' style={{width:"150px",height:"22px", marginBottom:"24px",marginTop:"5px"}} />
@@ -108,6 +109,7 @@ function Footer() {
                 <a href='' style={{color:"#9B9B9B",textDecoration:"none",fontSize:"14px",marginLeft:"25px"}}>Investor charter</a>
                 <a href='' style={{color:"#9B9B9B",textDecoration:"none",fontSize:"14px",marginLeft:"25px"}}>Sitemap</a>
             </div>
+        </div>
         </div>
      );
 }

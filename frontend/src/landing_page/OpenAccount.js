@@ -10,7 +10,7 @@ function OpenAccount() {
                     <button style={{width:"203px",marginTop:"25px",marginBottom:"25px",fontSize:"19px", height:"44px",padding:"10px,30px",backgroundColor:"#387ED1",color:"#FFFFFF",borderRadius:"5px",border:"0px"}}>Sign up for free</button>
                 </div>
             </div>
-        <hr /></div>
+        </div>
      );
 }
 
